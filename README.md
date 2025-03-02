@@ -4,6 +4,8 @@ This is a code package is related to the following scientific article:
 
 Z. Wang, J. Zhang, H. Q. Ngo, B. Ai and M. Debbah, "Uplink Precoding Design for Cell-Free Massive MIMO With Iteratively Weighted MMSE," in IEEE Transactions on Communications, vol. 71, no. 3, pp. 1646-1664, Mar. 2023.
 
+Available at: https://arxiv.org/abs/2301.02417
+
 The package contains a simulation environment, based on Matlab, that reproduces the numerical results in the article. *We encourage you to also perform reproducible research!*
 
 ## Abstract of Article
